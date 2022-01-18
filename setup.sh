@@ -13,3 +13,5 @@ echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sud
 sudo apt-get update -y
 
 sudo apt-get install google-chrome-stable -y
+
+git checkout -f broadcast
